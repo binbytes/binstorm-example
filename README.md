@@ -22,7 +22,7 @@ npm run dev-ios
 ```
 
 ## Documantation
-Read full Documantation Here [BinStorm](https://docs-binstorm.binbytes.com)
+Read full Documantation Here [BinStorm-Docs](https://docs-binstorm.binbytes.com)
 
 ## BinStorm Core
-Get Source Code from [GitHub](https://github.com/binbytes/binstorm)
+Get Binstorm core Source Code from [Here](https://github.com/binbytes/binstorm)
